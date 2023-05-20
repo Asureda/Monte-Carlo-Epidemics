@@ -1,0 +1,7 @@
+1                   #zero_patients 
+300		    #tmax 
+2.15                  #2.15da 
+1.0                  #delta 
+.TRUE.		    # print rates
+.FALSE.             # confinment 
+1		    # n_samples
